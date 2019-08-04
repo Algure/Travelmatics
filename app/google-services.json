@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "143738966105",
+    "firebase_url": "https://gmart-9dff0.firebaseio.com",
+    "project_id": "gmart-9dff0",
+    "storage_bucket": "gmart-9dff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143738966105:android:eaebb629a2f4a03e",
+        "android_client_info": {
+          "package_name": "com.ajiri_algure.gmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143738966105-fe2u6p5dad826qpf7jvr4daesd4piat7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajiri_algure.gmart",
+            "certificate_hash": "1844192d9f65f4e3cce4a9a771f60aab0cb1e23f"
+          }
+        },
+        {
+          "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1PjS7GhMYzgWfkCk-vSCX2IJ8ybBItA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1220923402157861~5043538383"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143738966105:android:23f08a2a1ee0e78b",
+        "android_client_info": {
+          "package_name": "com.ajiri_algure.gmart_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143738966105-0uer92skktusugr42unfcb3l2ehrf1f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajiri_algure.gmart_control",
+            "certificate_hash": "1844192d9f65f4e3cce4a9a771f60aab0cb1e23f"
+          }
+        },
+        {
+          "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1PjS7GhMYzgWfkCk-vSCX2IJ8ybBItA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143738966105:android:da1b4a49842de7ee",
+        "android_client_info": {
+          "package_name": "com.ajiri_algure.gstoremgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143738966105-lhqnb1rslic3smajlaefgutetr1iruh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajiri_algure.gstoremgt",
+            "certificate_hash": "1844192d9f65f4e3cce4a9a771f60aab0cb1e23f"
+          }
+        },
+        {
+          "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1PjS7GhMYzgWfkCk-vSCX2IJ8ybBItA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143738966105-og3g24q74k2qq8orrd37g0lofss2kf42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
